@@ -1,2 +1,3 @@
 # hello-world
-one of my repository
+
+Keep learning language to communicate with robots. Go on, Woodoood! 
